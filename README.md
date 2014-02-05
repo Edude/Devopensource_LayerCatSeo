@@ -9,5 +9,13 @@ Devopensource_LayerCatSeo
 
 
  Tested:
- 
+
  	- Magento CE 1.7.0.2
+
+
+INSTALLATION
+=========================
+
+1º Install with modgit https://github.com/jreinke/modgit
+2º In your project folder
+	$ modgit add devopensource_layercatseo https://github.com/jruzafa/Devopensource_LayerCatSeo
