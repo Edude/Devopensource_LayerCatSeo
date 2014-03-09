@@ -1,0 +1,3 @@
+# Modman Mapping File
+app/code/local/Devopensource/LayerCatSeo            app/code/local/Devopensource/
+app/etc/modules/Devopensource_LayerCatSeo.xml       app/etc/modules/
