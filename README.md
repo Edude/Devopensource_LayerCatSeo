@@ -16,6 +16,10 @@ Devopensource_LayerCatSeo
 INSTALLATION
 =========================
 
-1º Install with modgit https://github.com/jreinke/modgit
-2º In your project folder
-	$ modgit add devopensource_layercatseo https://github.com/jruzafa/Devopensource_LayerCatSeo
+* 1º  Install with modgit https://github.com/jreinke/modgit
+* 2º In your project folder $ modgit add devopensource_layercatseo https://github.com/jruzafa/Devopensource_LayerCatSeo
+
+
+#### MODMAN INSTALL
+
+Repo with installation of this module in modman, https://github.com/Edude/Devopensource_LayerCatSeo
