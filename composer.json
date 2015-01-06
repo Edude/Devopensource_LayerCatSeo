@@ -1,0 +1,14 @@
+{
+    "name": "jruzafa/devopensource_layercatseo",
+    "type": "magento-module",
+    "description": "Fix Category Url Filter in Magento Layered Navigation.",
+	"website": "https://github.com/jruzafa/Devopensource_LayerCatSeo",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Jose Ruzafa"
+        }
+    ]	
+}
